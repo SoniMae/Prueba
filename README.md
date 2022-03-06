@@ -2,4 +2,4 @@
 Intro a GitHub
 ### HackWomen 👩👧
 
-** SKILLS FOR WOMEN IN TECH **
+**SKILLS FOR WOMEN IN TECH**
